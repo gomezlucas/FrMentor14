@@ -176,7 +176,7 @@ body {
     overflow: hidden;
     background-color: var(--veryDarkViolet);
     width: 0%;
-    min-height: calc(100vh - 6rem);
+    min-height: 92vh; 
     position: fixed;
     bottom: 0;
     left: 0;
