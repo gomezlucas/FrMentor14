@@ -608,6 +608,11 @@ body {
 
 
 @media screen and (max-width: 600px) {
+
+  .banner{
+    padding: 3.5rem 1rem 3.5rem 1rem;
+  }
+  
   .banner__title {
     font-size: 2rem;
   }
